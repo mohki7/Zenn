@@ -37,4 +37,8 @@
 
 ## リンクのカードビュー
 
-@[card] [https://mohki7.notion.site/Mototsugu-Oki-c478f842c4de48f394e2e24b58e206bb?pvs=4](https://mohki7.notion.site/Mototsugu-Oki-c478f842c4de48f394e2e24b58e206bb?pvs=4)
+```
+@[card](url)
+```
+
+これでうまくいくはずだけど、VSCodeの設定のせいかうまくいかないから、Zennのサイト上で手直しするしかないかも。

@@ -9,8 +9,9 @@ published: false
 
 X: [@A7_data](https://twitter.com/A7_data)←こういう者です。プロフィールページ→[こちら](https://mohki7.notion.site/Mototsugu-Oki-c478f842c4de48f394e2e24b58e206bb?pvs=4)
 
-[https://twitter.com/A7_data](https://twitter.com/A7_data)
+[https://twitter.com/A7_data](%E2%80%B8https://twitter.com/A7_data)
 
+[https://mohki7.notion.site/Mototsugu-Oki-c478f842c4de48f394e2e24b58e206bb?pvs=4](https://mohki7.notion.site/Mototsugu-Oki-c478f842c4de48f394e2e24b58e206bb?pvs=4)
 
 # 概要
 
@@ -28,7 +29,7 @@ Notionを使って、ポートフォリオサイトを**無料**で、**ノー�
 
 僕がNotionで作ったポートフォリオサイトはこんな感じ。
 
-@[card]([https://mohki7.notion.site/Mototsugu-Oki-c478f842c4de48f394e2e24b58e206bb?pvs=4](https://mohki7.notion.site/Mototsugu-Oki-c478f842c4de48f394e2e24b58e206bb?pvs=4))
+[https://mohki7.notion.site/Mototsugu-Oki-c478f842c4de48f394e2e24b58e206bb?pvs=4](https://mohki7.notion.site/Mototsugu-Oki-c478f842c4de48f394e2e24b58e206bb?pvs=4)
 
 ## ページを作ってみる
 
