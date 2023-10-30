@@ -1,13 +1,10 @@
 # 自己紹介
 
-X: [@A7_data](https://github.com/mohki7/Zenn.git)←こういう者です。
-プロフィールページ→[こちら](https://mohki7.notion.site/Mototsugu-Oki-c478f842c4de48f394e2e24b58e206bb?pvs=4)
-
+X: [@A7_data](https://github.com/mohki7/Zenn.git)←こういう者です。プロフィールページ→[こちら](https://mohki7.notion.site/Mototsugu-Oki-c478f842c4de48f394e2e24b58e206bb?pvs=4)
 
 # 概要
 
 Notionを使って、プロフィールサイトを**無料**で、**ノーコード**で作成する。
-
 
 # 終わりに
 
