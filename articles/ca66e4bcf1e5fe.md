@@ -9,6 +9,9 @@ published: false
 
 X: [@A7_data](https://twitter.com/A7_data)←こういう者です。プロフィールページ→[こちら](https://mohki7.notion.site/Mototsugu-Oki-c478f842c4de48f394e2e24b58e206bb?pvs=4)
 
+[https://twitter.com/A7_data](https://twitter.com/A7_data)
+
+
 # 概要
 
 Notionを使って、ポートフォリオサイトを**無料**で、**ノーコード**で作成する。
