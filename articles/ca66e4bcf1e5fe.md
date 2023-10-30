@@ -8,11 +8,35 @@ published: false
 
 # 自己紹介
 
-X: [@A7_data](https://github.com/mohki7/Zenn.git)←こういう者です。プロフィールページ→[こちら](https://mohki7.notion.site/Mototsugu-Oki-c478f842c4de48f394e2e24b58e206bb?pvs=4)
+X: [@A7_data](https://twitter.com/A7_data)←こういう者です。プロフィールページ→[こちら](https://mohki7.notion.site/Mototsugu-Oki-c478f842c4de48f394e2e24b58e206bb?pvs=4)
 
 # 概要
 
-Notionを使って、プロフィールサイトを**無料**で、**ノーコード**で作成する。
+Notionを使って、ポートフォリオサイトを**無料**で、**ノーコード**で作成する。
+
+# Notionとは
+
+## 無料で使える超多機能メモ帳
+
+多機能すぎ。
+
+## 学生ならplus planが無料に
+
+# ポートフォリオサイトの作成
+
+僕がNotionで作ったポートフォリオサイトはこんな感じ。
+
+
+[https://mohki7.notion.site/Mototsugu-Oki-c478f842c4de48f394e2e24b58e206bb?pvs=4](https://mohki7.notion.site/Mototsugu-Oki-c478f842c4de48f394e2e24b58e206bb?pvs=4)
+
+
+## ページを作ってみる
+
+ページを作ろう
+
+## ページを公開する
+
+公開しよう
 
 # 終わりに
 
