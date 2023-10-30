@@ -30,4 +30,11 @@
 4. 執筆
    Front-matterの下から描き始める
 5. できたらpush
-   mainブランチにpushされた時点で記事がアップロードされるっぽい。プルリク承認してからかも
+   mainブランチにpushされた時点で記事がアップロードされるっぽい。
+   あとはpushするたびに更新される。
+
+# Zenn Markdown
+
+## リンクのカードビュー
+
+@[card] [https://mohki7.notion.site/Mototsugu-Oki-c478f842c4de48f394e2e24b58e206bb?pvs=4](https://mohki7.notion.site/Mototsugu-Oki-c478f842c4de48f394e2e24b58e206bb?pvs=4)

@@ -27,7 +27,7 @@ Notionを使って、ポートフォリオサイトを**無料**で、**ノー�
 僕がNotionで作ったポートフォリオサイトはこんな感じ。
 
 
-[https://mohki7.notion.site/Mototsugu-Oki-c478f842c4de48f394e2e24b58e206bb?pvs=4](https://mohki7.notion.site/Mototsugu-Oki-c478f842c4de48f394e2e24b58e206bb?pvs=4)
+@[card] ([https://mohki7.notion.site/Mototsugu-Oki-c478f842c4de48f394e2e24b58e206bb?pvs=4](https://mohki7.notion.site/Mototsugu-Oki-c478f842c4de48f394e2e24b58e206bb?pvs=4))
 
 
 ## ページを作ってみる
