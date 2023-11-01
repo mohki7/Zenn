@@ -1,9 +1,9 @@
-title: ""
-summary: ""
-topics: []
+title: "DALL•E-3 完全攻略・副収入を作る"
+summary: "DALL•E-3を使って副収入を作る方法を解説します。プロンプトを使って、DALL•E-3を使いこなしましょう。"
+topics: ["DALL•E-3", "GPT-4", "副収入", "プロンプト", "AI", "画像生成"]
 published: false
 price: 0 # 有料の場合200〜5000
 # 本に含めるチャプターを順番に並べましょう
 chapters:
-  - example1
-  - example2
+  - about
+  - setup
