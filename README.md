@@ -27,6 +27,17 @@
    これで/books直下に作られる。
 3. Front-matterを埋める
    Front-matterはfront-matter.txtにもコピペしてあるから、articlesフォルダまたはbooksフォルダ下にファイルを新規作成して、Front-matterをコピペすればOK
+
+   ```
+   ---
+   title: ""
+   emoji: "🗒️"
+   type: "tech" # tech: 技術記事 / idea: アイデア
+   topics: []
+   published: false # falseは下書き、trueは公開
+   ---
+
+   ```
 4. 執筆
    Front-matterの下から描き始める
 5. できたらpush
@@ -38,3 +49,5 @@
 ## リンクのカードビュー
 
 @[card] [https://mohki7.notion.site/Mototsugu-Oki-c478f842c4de48f394e2e24b58e206bb?pvs=4](https://mohki7.notion.site/Mototsugu-Oki-c478f842c4de48f394e2e24b58e206bb?pvs=4)
+
+これ、VSCode上だとうまく表示されないから、あとでZenn上で書き直す
